@@ -5,4 +5,4 @@ install expressJS
     npm install express
 
 install babel dan nodemon
-    npm install @babel/cli @babel/core @babel/node @babel/preset-env nodemon --save-dev 
+    npm install @babel/cli @babel/core @babel/node @babel/preset-env nodemon --save-dev ss
