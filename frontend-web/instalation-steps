@@ -1,0 +1,17 @@
+create react js
+    npx create-react-app frontend-web-tikiku
+
+React router
+    npm install react-router-dom
+
+AXIOS 
+    npm install axios
+
+install redux untuk membuat tampilan loading and re-use
+    npm install redux react-redux
+
+install redux-thunk
+    npm install redux-thunk 
+
+install cookie
+    npm install js-cookie
